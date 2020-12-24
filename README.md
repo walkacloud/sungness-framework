@@ -1,4 +1,4 @@
-# sungness-framework
+# sungness-framework（宏伟哥给的权限项目）
 Java项目框架代码库，包括各种工具以及对Spring MVC、mybatis的封装
 
 子模块：
